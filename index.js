@@ -1,5 +1,3 @@
-var greeting = 'Hello';
-
-function shout(greeting) {
+function shout(string) {
   return greeting.toUpperCase
   }
