@@ -15,8 +15,9 @@ function shout(string) {
       }
         
         var greeting = hello
+        
         function sayHiToGrandma(string) {
-          
+          if greeting 
             return "I can't hear you!"
         }
     
