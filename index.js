@@ -14,7 +14,7 @@ function shout(string) {
         console.log('hello'); string.toLowerCase()
       }
         
-        var 
+        var greeting = hello
         function sayHiToGrandma(string) {
           
             return "I can't hear you!"
