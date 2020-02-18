@@ -8,9 +8,7 @@ function shout(string) {
   
   function logshout(string) {
     console.log(); string.toUpperCase()
-    
+    console.log(); string.toLowerCase()
     }
     
-    function logshout(string) {
-      console.log(); string.toLowerCase
-    }
+    
