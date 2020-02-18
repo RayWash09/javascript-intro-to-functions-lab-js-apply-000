@@ -15,11 +15,11 @@ function shout(string) {
       }
 
         function sayHiToGrandma(string) {
-          if (string == greeting.toLowerCase)
+          if (string == string.toLowerCase)
             return "I can't hear you!"
-            if (greeting == greeting.toUpperCase)
+            if (string == string.toUpperCase)
               return "YES INDEED"
-              if (greeting == "I love you, Grandma.")
+              if (string == "I love you, Grandma.")
               return "I love you, too."
         }
     
